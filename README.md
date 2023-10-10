@@ -6,7 +6,7 @@ The style.css file was also refactored to sync with the changes made on the inde
 
 Click this link to access the github repository https://clamadi.github.io/Horiseon-A
 
-To access the application click this link https://clamadi.github.io/Horiseon-A/starter/index.html
+To access the application click this link https://clamadi.github.io/Horiseon-A/
 
 
 
@@ -15,5 +15,11 @@ _**Credit**_
 Resources from the class work helped me acheive this work.
 
 Youtube video from Dave Gray  https://www.youtube.com/watch?v=kX3TfdUqpuU&t=162s.
+
+
+_**Licence**_   
+
+MIT Licence.
+
 
 
